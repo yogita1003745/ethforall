@@ -1,0 +1,6 @@
+.nft-cover-img {
+  background: url("https://phonoteka.org/uploads/posts/2021-04/1619079448_1-phonoteka_org-p-ofisnii-stol-fon-1.jpg")
+    center center fixed;
+  background-size: cover;
+  height: 700px;
+}

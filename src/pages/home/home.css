@@ -1,0 +1,23 @@
+.home {
+  background: url("https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/21/4k-landscape-wallpaper/4K-Landscape-Wallpapers-Top-Free-4K-Landscape-Backgrounds-.jpg")
+    center center fixed;
+  background-size: cover;
+  height: 700px;
+}
+
+.title {
+  font-size: 80px;
+  margin: 200px 0px 0px 290px;
+  font-weight: 700;
+  color: #fff;
+  background: #fbf8ec;
+  background: linear-gradient(180deg, black 50%, #4e6778);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.description {
+  font-size: 18px;
+  color: #fbf8ec;
+  text-align: center;
+}
